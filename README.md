@@ -7,5 +7,5 @@ In this repository you'll find app development projects from https://www.hacking
 
 
 
-https://github.com/user-attachments/assets/0c09ac3a-2fa3-43a9-872d-68417f865d5c
+![rock paper scissors ios app](https://github.com/user-attachments/assets/921a3831-75f6-4304-b5ab-11a2dba35d60)
 
